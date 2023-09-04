@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "826169",
+      "name": "主页",
+      "font_class": "home-page",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1304877",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11372659",
+      "name": "更多",
+      "font_class": "gengduo1",
+      "unicode": "e8af",
+      "unicode_decimal": 59567
+    },
+    {
+      "icon_id": "33035583",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
